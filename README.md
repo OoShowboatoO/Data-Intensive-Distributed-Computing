@@ -5,11 +5,11 @@ Spark streaming: Given the New York City Taxi & Limousine Commision trip transac
 
 Assignment 6
 
-Spam classification: using Apache Spark, a Linear Regression model is trained which learns a binary classification task of detecting spam files. To this end, there are two steps of implementing this system. First one is to train the classifier from the given training data using gradient descent as the optimizer, and second, to evaluate the test data.
+SQL big data analytics: Over a relational and structured database, which contains a set of Entity tables, specific SQL queries are performed. Each table has both of the simple text and the parquet formats, and query implementations support both types.
 
 Assignment 5
 
-SQL big data analytics: Over a relational and structured database, which contains a set of Entity tables, specific SQL queries are performed. Each table has both of the simple text and the parquet formats, and query implementations support both types.
+Spam classification: using Apache Spark, a Linear Regression model is trained which learns a binary classification task of detecting spam files. To this end, there are two steps of implementing this system. First one is to train the classifier from the given training data using gradient descent as the optimizer, and second, to evaluate the test data.
 
 Assignment 4
 
