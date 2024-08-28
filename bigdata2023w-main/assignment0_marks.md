@@ -1,10 +1,6 @@
 # CS 451/651 Big Data Infrastructure (Winter 2023)
 ## Assignment 0 Marking
 
-**Student details**
-Number:20709751
-WATIAM:m25ding
-
 **Question 1**
 mark: 2/2
 
