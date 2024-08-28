@@ -46,4 +46,4 @@ mark: 1.0/1.0
 **Final grade**
 mark: 35.0/35.0
 
-summary: 20709751,m25ding,35.0/35.0
+summary: 35.0/35.0
