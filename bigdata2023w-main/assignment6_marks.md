@@ -2,8 +2,6 @@
 ## Assignment 6 Marking
 
 **Student details**
-Number:20709751
-WATIAM:m25ding
 
 **Test 1** Successful Compiling? mark: 10.0/10
 
