@@ -2,8 +2,6 @@
 ## Assignment 5 Marking
 
 **Student details**
-Number:20709751
-WATIAM:m25ding
 
 **Test 1** Getting your code to compile mark: 4.0/4
 
