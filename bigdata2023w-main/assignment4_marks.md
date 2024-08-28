@@ -25,4 +25,4 @@ mark: 15/15
 **Final grade**
 mark: 55.0/55.0
 
-summary: 20709751,m25ding,55.0/55.0
+summary: 55.0/55.0
