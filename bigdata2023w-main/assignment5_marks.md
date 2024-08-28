@@ -26,4 +26,4 @@
 **Final grade**
 mark: 60.0/60.0
 
-summary: 20709751,m25ding,60.0/60.0
+summary: 60.0/60.0
