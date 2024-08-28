@@ -2,8 +2,7 @@
 ## Assignment 1 Marking
 
 **Student details**
-Number:20709751
-WATIAM:m25ding
+
 **Test 1**
 Linux - Compile and run
 mark: 10.0/10.0
