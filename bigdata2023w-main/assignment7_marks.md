@@ -2,8 +2,6 @@
 ## Assignment 7 Marking
 
 **Student details**
-Number:20709751
-WATIAM:m25ding
 
 **Test 1** Q1 mark: 5.0/5.0
 
