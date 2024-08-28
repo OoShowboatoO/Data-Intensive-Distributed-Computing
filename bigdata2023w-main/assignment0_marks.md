@@ -29,4 +29,4 @@ mark: 5/5
 **Final grade**
 mark: 20.0/20.0
 
-summary: 20709751,m25ding,20.0/20.0
+summary: 20.0/20.0
