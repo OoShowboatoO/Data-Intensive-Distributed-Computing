@@ -2,8 +2,7 @@
 ## Assignment 2 Marking
 
 **Student details**
-Number:20709751
-WATIAM:m25ding
+
 **Test 1**
 Bigram Relative Frequency - Pair Impl on Linux
 mark: 5.0/5
